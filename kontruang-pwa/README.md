@@ -11,3 +11,5 @@ Workflow `.github/workflows/kontruang-pages.yml` merakitnya kembali
 
 Untuk memperbarui: bangun ulang dist dengan `VITE_BASE=/Kontruang-App/`,
 zip isinya, ganti potongan base64-nya, lalu push — deploy berjalan otomatis.
+
+Deploy dipicu ulang oleh Muse pada 11 Okt 2026 setelah Fahriz menambahkan workflow & mengaktifkan Pages (GitHub Actions).
